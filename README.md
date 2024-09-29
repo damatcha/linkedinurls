@@ -1,3 +1,4 @@
+## Overview
 A Python-based script that automates LinkedIn searches for names listed in an Excel file. It utilizes the LinkedIn API for user authentication and generates search URLs for people in a specified region and location based on user input.
 
 The generated URLs are saved in an Excel file along with additional metadata for each name.
